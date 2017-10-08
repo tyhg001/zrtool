@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZrToolModel", "ZrToolModel\ZrToolModel.csproj", "{A36CFC24-F475-45C5-9949-A68FB984F64D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZrToolDAL", "ZrToolDAL\ZrToolDAL.csproj", "{516737D5-2F73-4767-8BB4-A0D3C2057E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZrToolBLL", "ZrToolBLL\ZrToolBLL.csproj", "{E80789D1-76D7-4D27-91EF-867F03494DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZrTool", "ZrTool\ZrTool.csproj", "{CE159375-240A-45AB-8570-E7A967AC52E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZrToolDALTests", "ZrToolDALTests\ZrToolDALTests.csproj", "{4C2E549E-8168-4893-A971-4BF85730D04F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A36CFC24-F475-45C5-9949-A68FB984F64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36CFC24-F475-45C5-9949-A68FB984F64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36CFC24-F475-45C5-9949-A68FB984F64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36CFC24-F475-45C5-9949-A68FB984F64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{516737D5-2F73-4767-8BB4-A0D3C2057E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516737D5-2F73-4767-8BB4-A0D3C2057E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516737D5-2F73-4767-8BB4-A0D3C2057E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516737D5-2F73-4767-8BB4-A0D3C2057E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E80789D1-76D7-4D27-91EF-867F03494DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80789D1-76D7-4D27-91EF-867F03494DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80789D1-76D7-4D27-91EF-867F03494DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80789D1-76D7-4D27-91EF-867F03494DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE159375-240A-45AB-8570-E7A967AC52E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE159375-240A-45AB-8570-E7A967AC52E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE159375-240A-45AB-8570-E7A967AC52E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE159375-240A-45AB-8570-E7A967AC52E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2E549E-8168-4893-A971-4BF85730D04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2E549E-8168-4893-A971-4BF85730D04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2E549E-8168-4893-A971-4BF85730D04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2E549E-8168-4893-A971-4BF85730D04F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
